@@ -1,2 +1,4 @@
-# MySimpleCalculator
-My first Android calculator application
+# My Simple Calculator
+
+###Description:
+###My first Android calculator application
